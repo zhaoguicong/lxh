@@ -1,2 +1,2 @@
 # lxh
-where i work
+where i work and learn
